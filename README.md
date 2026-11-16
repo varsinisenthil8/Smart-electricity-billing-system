@@ -33,17 +33,17 @@ Manual bill calculations take time and may lead to errors. This project automate
 7. Working
 The program accepts customer details, calculates electricity charges for 20 entries, and displays the total revenue and highest bill.
 
+   
  8. Sample Output
-## 8. Sample Output
 
 ### Screenshot 1 – Program Execution
-![Screenshot 1](screenshots/output%201.png)
+![Screenshot 1](./output%201.png)
 
 ### Screenshot 2 – Billing Details
-![Screenshot 2](screenshots/output%202.png)
+![Screenshot 2](./output%202.png)
 
 ### Screenshot 3 – Final Output
-![Screenshot 3](screenshots/output%3.png.png)
+![Screenshot 3](./output3.png)
 
 
  9. Future Improvements
